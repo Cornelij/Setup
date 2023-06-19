@@ -20,3 +20,22 @@
 ### Miscellaneous
 - VS Code Font: Fire Code (Ligatures enabled)
 
+## Software
+- Signal
+- Discord
+- Notion
+- Bitwarden
+- Docker Desktop
+- OBS
+- GitHub Desktop
+- qBittorent
+- VirtualBox
+- Spotify
+- Git
+- FFMPEG
+- FireFox
+- Flux
+- Terminal (Windows)
+- Warp (MacOS - Trialing)
+- Zoom
+- Slack
