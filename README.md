@@ -1,3 +1,3 @@
 # Setup
 
-# VS Code
+## VS Code
