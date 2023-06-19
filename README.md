@@ -1,5 +1,5 @@
 # Setup
-[VS Code](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code) (<br>)
+[VS Code](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code) <br>
 [Software](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code)
 
 
