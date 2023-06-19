@@ -1,6 +1,6 @@
 # Setup
-1. [VS Code](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code)
-2. [Software](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code)
+[VS Code](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code)
+[Software](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code)
 
 
 ## VS Code
