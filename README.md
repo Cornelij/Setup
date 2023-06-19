@@ -1,8 +1,8 @@
 # Setup
-- [VS Code](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code) <br>
+[VS Code](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code) <br>
   [Extensions](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code) <br>
   [Miscellaneous](Miscellaneous) <br>
-- [Software](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code)
+[Software](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code)
 
 
 ## VS Code
