@@ -36,7 +36,7 @@
 - Git
 - FFMPEG
 - FireFox
-- Flux
+- F.lux
 - Terminal (Windows)
 - Warp (MacOS - Trialing)
 - Zoom
