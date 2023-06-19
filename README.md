@@ -1,7 +1,7 @@
 # Setup
 - [VS Code](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code) <br>
     [Extensions](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code) <br>
-    [Miscellaneous](Miscellaneous) <br>
+    [Miscellaneous](https://github.com/Cornelij/Setup#miscellaneous)) <br>
 - [Software](https://github.com/Cornelij/Setup/blob/main/README.md#vs-code)
 
 
