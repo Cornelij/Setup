@@ -17,6 +17,7 @@
 - Packer
 - SQLite
 - WSL
+- YAML
 - ZipFS
 
 ### Miscellaneous
