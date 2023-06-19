@@ -24,21 +24,20 @@
 - VS Code Font: [Fire Code](https://github.com/tonsky/FiraCode) (Ligatures enabled)
 
 ## Software
-- Signal
-- Discord
-- Notion
 - Bitwarden
+- Discord
 - Docker Desktop
-- OBS
-- GitHub Desktop
-- qBittorent
-- VirtualBox
-- Spotify
-- Git
+- F.lux
 - FFMPEG
 - FireFox
-- F.lux
-- Terminal (Windows)
-- Warp (MacOS - Trialing)
-- Zoom
+- Git
+- GitHub Desktop
+- Notion
+- OBS
+- qBittorent
+- Signal
 - Slack
+- Spotify
+- Terminal (Windows)
+- VirtualBoxWarp (MacOS - Trialing)
+- Zoom
