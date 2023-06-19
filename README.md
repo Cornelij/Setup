@@ -20,7 +20,7 @@
 - ZipFS
 
 ### Miscellaneous
-- VS Code Font: Fire Code (Ligatures enabled)
+- VS Code Font: [Fire Code](https://github.com/tonsky/FiraCode) (Ligatures enabled)
 
 ## Software
 - Signal
