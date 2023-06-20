@@ -12,6 +12,7 @@
 - Docker
 - GitLens
 - Go
+- HashiCorp Terraform
 - Jenkinsfile Support
 - Kubernetes
 - Packer
