@@ -41,5 +41,5 @@
 - Spotify
 - Terminal (Windows)
 - VirtualBox
-- Warp (MacOS - Trialing)
+- Warp (MacOS - Trialling)
 - Zoom
