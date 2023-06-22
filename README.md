@@ -40,5 +40,6 @@
 - Slack
 - Spotify
 - Terminal (Windows)
-- VirtualBoxWarp (MacOS - Trialing)
+- VirtualBox
+- Warp (MacOS - Trialing)
 - Zoom
